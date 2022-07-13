@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'gota';
+  src: url('../fonts/gota/Gota-Regular.eot');
+  src: url('../fonts/gota/Gota-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/gota/Gota-Regular.svg#Gota-Regular') format('svg'),
+       url('../fonts/gota/Gota-Regular.ttf') format('truetype'),
+       url('../fonts/gota/Gota-Regular.woff') format('woff'),
+       url('../fonts/gota/Gota-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'K2D-SemiBoldItalic';
+  src: url('../fonts/k2d/K2D-SemiBoldItalic.eot');
+  src: url('../fonts/k2d/K2D-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/k2d/K2D-SemiBoldItalic.svg#K2D-SemiBoldItalic') format('svg'),
+       url('../fonts/k2d/K2D-SemiBoldItalic.ttf') format('truetype'),
+       url('../fonts/k2d/K2D-SemiBoldItalic.woff') format('woff'),
+       url('../fonts/k2d/K2D-SemiBoldItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
