@@ -1,3 +1,11 @@
+div#preload {
+display: none;
+visibility: hidden;
+}
+#preload img {
+display: none;
+visibility: hidden;
+}
 body {
 background-color: #000000;
 color: #fff;
@@ -13,10 +21,6 @@ user-select: none;
 font-family: gota, Arial;
 font-size: 60px;
 margin-bottom: 0;
--moz-transition: all .2s ease-in;
--o-transition: all .2s ease-in;
--webkit-transition: all .2s ease-in;
-transition: all .2s ease-in;
 }
 #logo:hover {
 background-image: url(../img/mask1.gif);
