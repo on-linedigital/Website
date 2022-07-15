@@ -1,3 +1,13 @@
+<?
+$count_my_page = ("./assets/hitcounter/hits.txt");
+$hits = file($count_my_page);
+$hits[0] ++;
+$fp = fopen($count_my_page , "w");
+fputs($fp , "$hits[0]");
+fclose($fp);
+// $sno=$hits[0];
+// echo $sno;
+?>
 <html>
   <head>
     <title>ON:LINE&#174</title>
